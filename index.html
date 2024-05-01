@@ -12,18 +12,18 @@
 </head>
 
 <body>
-    <h1 class="text-primary text-center">FrontEnd Mailer</h1>
+    <h1 class="text-primary text-center">FrontEnd Mailer</h1><br>
 
     <form action="https://api.web3forms.com/submit" method="POST">
         <input type="hidden" name="access_key" value="6581ad61-8613-4c2a-b8cf-08265caca1cb">
 
-        <input type="text" name="name" required>
-        <input type="email" name="email" required>
-        <textarea name="message" required></textarea>
+        <input type="text" class="form-control" name="name" required><br>
+        <input type="email" class="form-control" id="exampleInputEmail1"  required><br>
+        <textarea name="message" class="form-control" required></textarea><br>
 
         <div class="h-captcha" data-captcha="true"></div>
 
-        <button type="submit">Submit Form</button>
+        <button type="submit"  class="btn btn-primary">Submit Form</button>
 
     </form>
 
