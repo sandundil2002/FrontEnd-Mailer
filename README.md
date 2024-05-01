@@ -6,11 +6,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="/assets/contact us2.png" alt="project-screenshot" width="400" height="400/">
+<img src="/assets/contact us2.png" alt="project-screenshot" width="600" height="400/">
 
-<img src="/assets/contact us3.png" alt="project-screenshot" width="400" height="400/">
+<img src="/assets/contact us3.png" alt="project-screenshot" width="600" height="400/">
 
-<img src="/assets/contact us4.png" alt="project-screenshot" width="400" height="400/">
+<img src="/assets/contact us4.png" alt="project-screenshot" width="600" height="400/">
 
   
   
@@ -37,4 +37,4 @@ git clone https://github.com/sandundil2002/FrontEnd-Mailer.git
 Technologies used in the project:
 
 *   HTML
-*   Bootstrap
+*   Css Bootstrap
