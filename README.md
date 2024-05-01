@@ -1,16 +1,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=60&pause=1000&center=true&vCenter=true&random=false&width=800&height=60&lines=Front-End+Mailer" alt="Typing SVG" /></a>
 
-<p align="center"><img src="https://i.ibb.co/9gPHBH7/calculator-front-end01.png" alt="project-image"></p>
+<p align="center"><img src="/assets/contact us1.png" alt="project-image"></p>
 
 <p id="description">"This project is a frontend application for sending emails directly from the browser without the need for a backend server."</p>
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co/9gPHBH7/calculator-front-end01.png" alt="project-screenshot" width="400" height="400/">
+<img src="/assets/contact us2.png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://i.ibb.co/9gPHBH7/calculator-front-end01.png" alt="project-screenshot" width="400" height="400/">
+<img src="/assets/contact us3.png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://i.ibb.co/9gPHBH7/calculator-front-end01.png" alt="project-screenshot" width="400" height="400/">
+<img src="/assets/contact us4.png" alt="project-screenshot" width="400" height="400/">
 
   
   
